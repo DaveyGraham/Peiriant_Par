@@ -1,5 +1,6 @@
 # Peiriant_Par
 Peiriant Pâr - Pair Machine
+
 A DIY eurorack platform based around an ATMega1284
 
 Currently configured as a two channel piano-roll sequencer with glide, variable sequence length and diatonic transposition.
